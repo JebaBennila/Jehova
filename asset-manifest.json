@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JebaBennila/Single-Page-Application/static/css/main.89d72f4f.css",
+    "main.js": "/JebaBennila/Single-Page-Application/static/js/main.d06c45e5.js",
+    "static/js/453.d7446e4a.chunk.js": "/JebaBennila/Single-Page-Application/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/JebaBennila/Single-Page-Application/index.html",
+    "main.89d72f4f.css.map": "/JebaBennila/Single-Page-Application/static/css/main.89d72f4f.css.map",
+    "main.d06c45e5.js.map": "/JebaBennila/Single-Page-Application/static/js/main.d06c45e5.js.map",
+    "453.d7446e4a.chunk.js.map": "/JebaBennila/Single-Page-Application/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d72f4f.css",
+    "static/js/main.d06c45e5.js"
+  ]
+}
